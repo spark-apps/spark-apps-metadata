@@ -1,0 +1,20 @@
+{
+  "name": "thunder",
+  "description": "large-scale neural data analysis with Spark",
+  "url": "http://thefreemanlab.com/thunder/",
+  "authors": ["Jeremy Freeman"],
+  "versions": [
+    {
+      "version": "0.1",
+      "licenses": ["Apache 2.0"],
+      "compatible.spark.versions": ["1.0.0", "1.0.1", "1.0.2"],
+      "languages": ["python", "scala"],
+      "source": {
+        "type": "git",
+        "repo": "git://github.com/freeman-lab/thunder",
+        "hashtag": "86d0bb9268972b252d0f5943a68ad43a7b16e083"
+      }
+    }
+  ]
+}
+
